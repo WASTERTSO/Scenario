@@ -46,6 +46,13 @@ Demo bot - @anonymous_4_robot
 <summary> 🍀 Update heroku app with CLI 🍀</summary>
 
 
+### Easiest Way To Deploy On Heroku 
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/wastertso/senario"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+
+
 - [x] Android compatible 
 - [x] Android 7 and above
 - [ ] Below Android 7
