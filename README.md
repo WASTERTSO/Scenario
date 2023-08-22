@@ -36,19 +36,13 @@ Demo bot - @anonymous_4_robot
 
 • before that please star 🥺
 
-• Click here to fork ↓
-<p><a href="https://github.com/TeamScenario/Scenario/fork"><img src="https://telegra.ph/file/8b61f6edc2a35c473ddff.jpg" alt="Press to Takeoff" width="490px"></a></p>
-    
-<h4>Click the button below to deploy Scenario on Heroku!</h4>    
-<p><a href="https://teamscenario.blogspot.com/heroku-deployer"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a></p>
-</details>
-<details>
+
 <summary> 🍀 Update heroku app with CLI 🍀</summary>
 
 
 ### Easiest Way To Deploy On Heroku 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/wastertso/senario"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/wastertso/scenario"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
