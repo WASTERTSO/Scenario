@@ -29,22 +29,22 @@
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "13421783"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "0bd72ac88b59458fb27162136cfeea0c"
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": ""
+         "value": "6094430636"
       },
       "BOT_ID": {
          "description": "Your bot ID..",
          "required": true,
-         "value": ""
+         "value": "6377213348"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -75,16 +75,16 @@
       "OWNER_USERNAME": {
          "description": "Your username without @",
          "required": true,
-         "value": ""
+         "value": "tso_king"
       },
       "UPDATES_CHANNEL": {
          "description": "Updates channel without @",
-         "value": "TeamScenario"
+         "value": "godx_bots"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "TeamScenario"
+         "value": "tso_chats"
       },
       "IBM_WATSON_CRED_URL": {
          "description": "This is required for the speech to text module. Get your USERNAME from https://console.bluemix.net/docs/services/speech-to-text/getting-started.html",
@@ -97,12 +97,12 @@
      "EVENT_LOGS": {
          "description": "Make a new group then add @ScenarioXbot then send /id you'll get chat it fill it here.",
          "required": true,
-         "value": ""
+         "value": "-1001743564414"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling. add @ScenarioXbot then send /id you'll get chat it fill it here.",
          "required": true,
-         "value": ""
+         "value": "-1001743564414"
       },
       "API_OPENWEATHER": {
         "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
@@ -112,7 +112,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": ""
+         "value": "6094430636"
       },
       "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -126,17 +126,17 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": ""
+         "value": "6094430636"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": ""
+         "value": "6094430636"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": ""
+         "value": "6094430636"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
